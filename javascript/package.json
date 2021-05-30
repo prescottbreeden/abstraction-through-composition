@@ -1,0 +1,14 @@
+{
+  "name": "fp-express",
+  "version": "0",
+  "description": "node server with express",
+  "main": "index.js",
+  "author": "cluck norris",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "ramda": "^0.27.1"
+  }
+}
